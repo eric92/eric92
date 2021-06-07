@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eric92
-- 👀 I’m interested in people taht could contribute in project
+- 👀 I’m interested in people that could contribute to my projects
 - 🌱 I’m currently learning to build apps with python
 - 💞️ I’m looking to collaborate on several project, especeially geolocation projects 
 - 📫 How to reach me ...
