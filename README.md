@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eric92
 - 👀 I’m interested in people that could contribute to my projects
-- 🌱 I’m currently learning to build apps with python
-- 💞️ I’m looking to collaborate on several project, especeially geolocation projects 
+- 🌱 I’m currently learning to build complex apps with Python, but also other interesting concepts such as Graph theories and other
+- 💞️ I’m looking to collaborate on several project, especeially geolocation projects.
 - 📫 How to reach me ...
 
 <!---
